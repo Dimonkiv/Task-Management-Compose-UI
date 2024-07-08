@@ -1,4 +1,4 @@
-package com.dimonkiv.taskmanagment.ui.theme.model
+package com.dimonkiv.taskmanagment.model
 
 import com.dimonkiv.taskmanagment.R
 import com.dimonkiv.taskmanagment.ScreenNamesConstant

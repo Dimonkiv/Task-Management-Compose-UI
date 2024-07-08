@@ -1,4 +1,4 @@
-package com.dimonkiv.taskmanagment.ui.theme.model
+package com.dimonkiv.taskmanagment.model
 
 import androidx.compose.ui.graphics.Color
 

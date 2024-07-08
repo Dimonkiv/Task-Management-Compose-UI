@@ -48,8 +48,8 @@ import com.dimonkiv.taskmanagment.ui.theme.LightBlue
 import com.dimonkiv.taskmanagment.ui.theme.Primary
 import com.dimonkiv.taskmanagment.ui.theme.Secondary
 import com.dimonkiv.taskmanagment.ui.theme.Yellow
-import com.dimonkiv.taskmanagment.ui.theme.model.TaskItem
-import com.dimonkiv.taskmanagment.ui.theme.model.TaskType
+import com.dimonkiv.taskmanagment.model.TaskItem
+import com.dimonkiv.taskmanagment.model.TaskType
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable

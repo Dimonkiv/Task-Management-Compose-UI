@@ -28,7 +28,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import com.dimonkiv.taskmanagment.R
 import com.dimonkiv.taskmanagment.ScreenNamesConstant
 import com.dimonkiv.taskmanagment.ui.theme.Primary
-import com.dimonkiv.taskmanagment.ui.theme.model.NavigationItem
+import com.dimonkiv.taskmanagment.model.NavigationItem
 
 @Composable
 fun BottomNavigationBar(
