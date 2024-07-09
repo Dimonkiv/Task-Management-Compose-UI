@@ -6,6 +6,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.dimonkiv.taskmanagment.ScreenNamesConstant
 import com.dimonkiv.taskmanagment.ui.theme.calendar.CalendarScreen
+import com.dimonkiv.taskmanagment.ui.theme.chat.MessageScreen
 
 @Composable
 fun Navigation(navController: NavHostController) {

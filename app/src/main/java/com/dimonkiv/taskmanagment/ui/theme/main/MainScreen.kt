@@ -2,7 +2,6 @@ package com.dimonkiv.taskmanagment.ui.theme.main
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.background
-import androidx.compose.foundation.gestures.FlingBehavior
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -46,7 +45,6 @@ import com.dimonkiv.taskmanagment.ui.theme.BluePurple
 import com.dimonkiv.taskmanagment.ui.theme.GreenishYellow
 import com.dimonkiv.taskmanagment.ui.theme.LightBlue
 import com.dimonkiv.taskmanagment.ui.theme.Primary
-import com.dimonkiv.taskmanagment.ui.theme.Secondary
 import com.dimonkiv.taskmanagment.ui.theme.Yellow
 import com.dimonkiv.taskmanagment.model.TaskItem
 import com.dimonkiv.taskmanagment.model.TaskType
